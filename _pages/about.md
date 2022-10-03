@@ -40,4 +40,4 @@ My resume can be download through this link [CV](https://github.com/jywu511/jywu
 * 2022.06 - Present: Visiting student at University of California, Santa Cruz.
 
 
-**Wish myself to enojying research.**
+**Wish myself to enjoying research.**
