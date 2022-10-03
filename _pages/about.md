@@ -21,8 +21,8 @@ I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a
 
 
 ## Patent
-* 标定参数的精度验证方法、介质及电子设备
-  郑国焱，**吴俊杨**，赵语云
+* 标定参数的精度验证方法、介质及电子设备\\
+  郑国焱，**吴俊杨**，赵语云\\
   国家发明专利，公开号：202111027674
 
 
