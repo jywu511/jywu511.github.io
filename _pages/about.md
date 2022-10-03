@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief Introduction"
+title: "Junyang Wu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -27,6 +27,20 @@ My resume can be download through this link [CV](https://github.com/jywu511/jywu
 
 * A paper about visual prompting is submitted to ICLR 2023
 
+<img align="left" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/>
+
+这是一个示例图片。
+
+图片显示在 N 段文字的右边。
+
+N 与图片高度有关。
+
+刷屏行。
+
+刷屏行。
+
+到这里应该不会受影响了，本行应该延伸到了图片的正下方，所以我要足够长才能确保不同的屏幕下都看到效果。
+
 ## Patent
 * 标定参数的精度验证方法、介质及电子设备\\
   郑国焱，**吴俊杨**，赵语云\\
@@ -37,3 +51,6 @@ My resume can be download through this link [CV](https://github.com/jywu511/jywu
 * 2021.07 - 2022.06: Research Intern at Image Navigation Intervention Center, IMR, Shanghai Jiao Tong University.
 * 2022.06 - Present: Research Intern at Johns Hopkins University.
 * 2022.06 - Present: Visiting student at University of California, Santa Cruz.
+
+
+**Wish myself to enojying research.**
