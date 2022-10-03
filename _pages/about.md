@@ -20,8 +20,8 @@ My resume can be download through this link [CV](https://github.com/jywu511/jywu
 * 2020 Fujian Alumni Scholar
 
 ## Publications
-* Nonlinear Regression of Remaining Surgical Duration via Bayesian LSTM-Based Deep Negative Correlation Learning\\
-  **Junyang Wu**, Rong Tao, Guoyan Zheng\\
+* **Nonlinear Regression of Remaining Surgical Duration via Bayesian LSTM-Based Deep Negative Correlation Learning**\\
+  <u>Junyang Wu</u>, Rong Tao, Guoyan Zheng\\
   early accepted by MICCAI 2022 (Top 13%)\\
   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_40) | [Code](https://github.com/jywu511/BD-Net)
 
