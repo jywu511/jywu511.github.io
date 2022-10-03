@@ -27,7 +27,8 @@ My resume can be download through this link [CV](https://github.com/jywu511/jywu
 
 * A paper about visual prompting is submitted to ICLR 2023
 
-<img align="left" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/>
+<img align="left" src="https://github.com/jywu511/jywu511.github.io/blob/master/images/BDNet.png"/>
+
 
 这是一个示例图片。
 
