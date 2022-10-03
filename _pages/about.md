@@ -12,7 +12,7 @@ I am a 'zero-year' Ph.D. student of Biomedical Engineering at Shanghai Jiao Tong
 
 I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a research intern with Prof. Alan Yuille at the Johns Hopkins University; Prof. Cihang Xie at the University of California, Santa Cruz; Prof. Guoyan Zheng at the Institude of Medical Robotics. I receive the 2020 National Scholarship.
 
-This is my [CV](http://academicpages.github.io/files/paper3.pdf)
+This is my [CV](https://github.com/jywu511/jywu511.github.io/blob/master/_CV/CV_Junyang%20Wu.pdf).
 
 ## Awards
 * 2021 National Scholarship
