@@ -14,14 +14,14 @@ I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a
 
 
 ## Awards
-2021 National Scholar\\
-2021 Meritorious Winner in the Mathematical Contest in Modeling\\
-2020 Fujian Alumni Scholar\\
+* 2021 National Scholar\\
+* 2021 Meritorious Winner in the Mathematical Contest in Modeling\\
+* 2020 Fujian Alumni Scholar
 
 ## Publications
 * Nonlinear Regression of Remaining Surgical Duration via Bayesian LSTM-Based Deep Negative Correlation Learning\\
   **Junyang Wu**, Rong Tao, Guoyan Zheng
-  early accepted by MICCAI 2022 (Top 13\%)
+  early accepted by MICCAI 2022 (Top 13%)\\
   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_40) | [Code](https://github.com/jywu511/BD-Net)
 
 * A paper about visual prompting is submitted to ICLR 2023
@@ -33,6 +33,6 @@ I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a
 
 
 ## experience
-2021.07 - 2022.06: Research Intern at Image Navigation Intervention Center, IMR, Shanghai Jiao Tong University.
-2022.06 - Present: Research Intern at Johns Hopkins University.
-2022.06 - Present: Visiting student at University of California, Santa Cruz.
+* 2021.07 - 2022.06: Research Intern at Image Navigation Intervention Center, IMR, Shanghai Jiao Tong University.
+* 2022.06 - Present: Research Intern at Johns Hopkins University.
+* 2022.06 - Present: Visiting student at University of California, Santa Cruz.
