@@ -10,9 +10,9 @@ redirect_from:
 
 I am a 'zero-year' Ph.D. student of Biomedical Engineering at Shanghai Jiao Tong University, advised by Prof. Guangzhong Yang. My research interest lies at medical image analysis, surgical robotics, and computer vision. I am particularly interested in Navigation of pulmonary interventional robot in the bronchus. 
 
-I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a research intern with Prof. Alan Yuille at the Johns Hopkins University; Prof. Cihang Xie at the University of California, Santa Cruz; Prof. Guoyan Zheng at the Institude of Medical Robotics. I receive the 2020 National Scholarship.
+I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a research intern with Prof. Alan Yuille at the Johns Hopkins University; Prof. Cihang Xie at the University of California, Santa Cruz; Prof. Guoyan Zheng at the Institude of Medical Robotics.
 
-My resume can be download through this link [CV](https://github.com/jywu511/jywu511.github.io/blob/master/_CV/CV_Junyang%20Wu.pdf).
+My resume can be downloaded through this link [CV](https://github.com/jywu511/jywu511.github.io/blob/master/_CV/CV_Junyang%20Wu.pdf).
 
 ## Awards
 * 2021 National Scholarship
@@ -25,7 +25,7 @@ My resume can be download through this link [CV](https://github.com/jywu511/jywu
   early accepted by MICCAI 2022 (Top 13%)\\
   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_40) | [Code](https://github.com/jywu511/BD-Net)
 
-* A paper about visual prompting is submitted to ICLR 2023
+* A paper about visual prompting is submitted to CVPR 2023
 
 
 ## Patent
@@ -43,5 +43,3 @@ My resume can be download through this link [CV](https://github.com/jywu511/jywu
 ## Professional Services
 Reviewer: ICLR2023, CVPR2023
 
-
-**Wish myself to enjoying research.**
