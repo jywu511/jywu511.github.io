@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a 'zero-year' Ph.D. student of Biomedical Engineering at Shanghai Jiao Tong University, advised by Prof. Guangzhong Yang. My research interest lies at medical image analysis, surgical robotics, and computer vision. I am particularly interested in Navigation of pulmonary interventional robot in the bronchus. 
+I am a 'zero-year' Ph.D. student of Biomedical Engineering at Shanghai Jiao Tong University, advised by [Prof. Guangzhong Yang](https://imr.sjtu.edu.cn/Keynote_Speaker/3049.html) and [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). My research interest lies at medical image analysis, surgical robotics, and computer vision. I am particularly interested in Navigation of pulmonary interventional robot in the bronchus. 
 
 I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a research intern with Prof. Alan Yuille at the Johns Hopkins University; Prof. Cihang Xie at the University of California, Santa Cruz; Prof. Guoyan Zheng at the Institude of Medical Robotics.
 
 My resume can be downloaded through this link [CV](https://github.com/jywu511/jywu511.github.io/blob/master/_CV/CV_Junyang%20Wu.pdf).
 
 ## Awards
+* 2022  Rong Chang Scholarship
 * 2021 National Scholarship
 * 2021 Meritorious Winner in the Mathematical Contest in Modeling
 * 2020 Fujian Alumni Scholar
