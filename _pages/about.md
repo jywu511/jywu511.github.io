@@ -27,7 +27,7 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_40) | [Code](https://github.com/jywu511/BD-Net)
 
 * **Unleashing the Power of Visual Prompting At the Pixel Level**\\
-  <u>Junyang Wu</u>^{*}, Xianhang Li^{*}, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie\\
+  <u>Junyang Wu</u><sup>*</sup>, Xianhang Li<sup>*</sup>, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie\\
   [Paper](https://arxiv.org/abs/2212.10556) | [Code](https://github.com/UCSC-VLAA/EVP)
 
 
