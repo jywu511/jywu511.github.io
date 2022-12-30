@@ -24,7 +24,7 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%"  src="https://github.com/jywu511/BD-Net/blob/main/BDNet.png?raw=true">  
+    <img align="left" width="10%"  src="https://github.com/jywu511/BD-Net/blob/main/BDNet.png?raw=true">  
   </div>
    <div class="column middle">&nbsp;</div>
   <div class="column right">
