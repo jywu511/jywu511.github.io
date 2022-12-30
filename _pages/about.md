@@ -45,7 +45,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%"  src="https://github.com/xhl-video/xianhangli/blob/master/images/eccv_method.png?raw=true">  
+    <img align="left" width="20%"  src="https://github.com/xhl-video/xianhangli/blob/master/images/eccv_method.png?raw=true">  
   </div>
    <div class="column middle">&nbsp;</div>
   <div class="column right">
