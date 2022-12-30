@@ -21,10 +21,11 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
 * 2020 Fujian Alumni Scholar
 
 ## Publications
-
+======
+___
 <div class="row">
   <div class="column left">
-    <img align="left" width="10%"  src="https://github.com/jywu511/BD-Net/blob/main/BDNet.png?raw=true">  
+    <img align="left" width="100%"  src="https://github.com/jywu511/BD-Net/blob/main/BDNet.png?raw=true">  
   </div>
    <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -38,7 +39,7 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
   </div>
 </div>
 
-
+___
 <div class="row">
   <div class="column left">
     <img align="left" width="20%"  src="https://github.com/jywu511/BD-Net/blob/main/BDNet.png?raw=true">  
@@ -46,7 +47,7 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
    <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>\\Unleashing the Power of Visual Prompting At the Pixel Level</strong><br/>
+      <strong>Unleashing the Power of Visual Prompting At the Pixel Level</strong><br/>
        <u>Junyang Wu</u><sup>*</sup>, Xianhang Li<sup>*</sup>, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie<br/>
         arxiv, 2022.<br/>   
         [<a href="https://arxiv.org/abs/2212.10556">PDF</a>]
