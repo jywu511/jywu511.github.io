@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a 'zero-year' Ph.D. student of Biomedical Engineering at Shanghai Jiao Tong University, advised by [Prof. Guangzhong Yang](https://imr.sjtu.edu.cn/Keynote_Speaker/3049.html) and [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). My research interest lies at medical image analysis, surgical robotics, and computer vision. I am particularly interested in Navigation of pulmonary interventional robot in the bronchus. 
+I am a Ph.D. student of Biomedical Engineering at Shanghai Jiao Tong University, advised by [Prof. Guangzhong Yang](https://imr.sjtu.edu.cn/Keynote_Speaker/3049.html) and [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). My research interest lies at medical image analysis, surgical robotics, and computer vision. I am particularly interested in Navigation of pulmonary interventional robot in the bronchus. 
 
 I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a research intern with Prof. Alan Yuille at the Johns Hopkins University; Prof. Cihang Xie at the University of California, Santa Cruz; Prof. Guoyan Zheng at the Institude of Medical Robotics.
 
 My resume can be downloaded through this link [CV](https://github.com/jywu511/jywu511.github.io/blob/master/_CV/CV_Junyang%20Wu.pdf).
+
+## News 
+* A paper about self-supervised depth and odometry estimation is accepted by Medical Image Analysis (IF=11.8).
+* A paper about test time adaptation is accepted by IROS 2025.
+* A paper about efficient domain adaptation and Gaussian Splatting is accepted by ICRA 2025.
+* A paper about visual prompting tuning is accepted by TMLR.
 
 ## Awards
 * 2022  Rong Chang Scholarship
@@ -25,6 +31,20 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
 
 ## Publications
 
+* **R2Nav: Robust, Real-time Test Time Adaptation for Robot Assisted Endoluminal Navigation**\\
+  <u>Junyang Wu</u>, Yimin Chu, Haixia Peng, Yun Gu, Guang-Zhong Yang\\
+  IROS 2025\\
+  [Paper]() | [Code](https://github.com/EndoluminalSurgicalVision-IMR/R2Nav)
+
+* **Sim2Real within 5 Minutes: Efficient Domain Transfer with Stylized Gaussian Splatting for Endoscopic Images**\\
+  <u>Junyang Wu</u>, Yun Gu, Guang-Zhong Yang\\
+  ICRA 2025\\
+  [Paper](https://arxiv.org/pdf/2403.10860) | [Code](https://github.com/EndoluminalSurgicalVision-IMR/Sim2Real5Mins)
+
+* **Nonlinear regression of remaining surgery duration from videos via Bayesian LSTM-based deep negative correlation learning**\\
+  <u>Junyang Wu</u>, Xiaoyang Zou, Rong Tao, Guoyan Zheng\\
+  eComputerized Medical Imaging and Graphics\\
+  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0895611123001325) | [Code](https://github.com/jywu511/BD-Net)
 
 
 * **Nonlinear Regression of Remaining Surgical Duration via Bayesian LSTM-Based Deep Negative Correlation Learning**\\
@@ -34,7 +54,7 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
 
 * **Unleashing the Power of Visual Prompting At the Pixel Level**\\
   <u>Junyang Wu</u><sup>*</sup>, Xianhang Li<sup>*</sup>, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie\\
-  Accept by TMLR.
+  Transactions on Machine Learning Research\\
   [Paper](https://arxiv.org/abs/2212.10556) | [Code](https://github.com/UCSC-VLAA/EVP)
 
 
