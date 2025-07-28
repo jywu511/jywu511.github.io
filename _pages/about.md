@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student of Biomedical Engineering at Shanghai Jiao Tong University, advised by [Prof. Guang-Zhong Yang](https://imr.sjtu.edu.cn/Keynote_Speaker/3049.html) and [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). My research interest lies at medical image analysis, surgical robotics, and computer vision. I am particularly interested in Navigation of pulmonary interventional robot in the bronchus. 
+I am a Ph.D. student of Biomedical Engineering at Shanghai Jiao Tong University, advised by [Prof. Guang-Zhong Yang](https://imr.sjtu.edu.cn/Keynote_Speaker/3049.html) and [Prof. Yun Gu](https://imr.sjtu.edu.cn/en/po_facultyv/531.html). My research interest lies at surgical robotics, robotics vision, and medical image analysis. I am particularly interested in the endoluminal navigation algorithms. 
 
 I received my B.S. degree from Shanghai Jiao Tong University. I have worked as a research intern with Prof. Alan Yuille at the Johns Hopkins University; Prof. Cihang Xie at the University of California, Santa Cruz; Prof. Guoyan Zheng at the Institude of Medical Robotics.
 
