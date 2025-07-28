@@ -66,8 +66,8 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
 
 ## experience
 * 2021.07 - 2022.06: Research Intern at Image Navigation Intervention Center, IMR, Shanghai Jiao Tong University.
-* 2022.06 - Present: Research Intern at Johns Hopkins University.
-* 2022.06 - Present: Visiting student at University of California, Santa Cruz.
+* 2022.06 - 2024.1: Research Intern at Johns Hopkins University.
+* 2022.06 - 2024.1: Visiting student at University of California, Santa Cruz.
 
 
 ## Professional Services
