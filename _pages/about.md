@@ -43,7 +43,7 @@ My resume can be downloaded through this link [CV](https://github.com/jywu511/jy
 
 * **Nonlinear regression of remaining surgery duration from videos via Bayesian LSTM-based deep negative correlation learning**\\
   <u>Junyang Wu</u>, Xiaoyang Zou, Rong Tao, Guoyan Zheng\\
-  eComputerized Medical Imaging and Graphics\\
+  Computerized Medical Imaging and Graphics\\
   [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0895611123001325) | [Code](https://github.com/jywu511/BD-Net)
 
 
