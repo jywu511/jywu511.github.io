@@ -76,7 +76,3 @@ Reviewer: ICLR2023, CVPR2023
 
 
 
-## (Homework)Exploring Future Healthcare: Artificial Intelligence Empowering Pulmonary Nodule Diagnosis
-This science popularization program will take you on a deep dive into the role of artificial intelligence in the field of medicine, particularly its application in diagnosing pulmonary nodules. Through concise presentations, captivating algorithm demonstrations, and interesting experiments, you will personally experience the technological advancements and learn how artificial intelligence can enhance the accuracy and efficiency of early-stage pulmonary nodule diagnosis. For presentation, basic knowledge will be highlighted and the current limit of conventional diagnosis will be discussed. In this part, you will know why we need artificial intelligence as our strong helper. For algorithm demonstration, how the artificial intelligence algorithms diagnose pulmonary nodules will be demonstrated clearly and you will have the chance to attempt diagnosing pulmonary nodules using artificial intelligence algorithms on your own. Furthermore, an interesting competition between artificial intelligence and experts will take place. Finally, there will be a discussion with invited relevant experts.
-No scientific background is required, as this science popularization program aims to provide the general public with a deeper understanding of the intersection between medicine and artificial intelligence, inspiring insights for the future of healthcare. Join us in exploring the future of medicine and technology!
-
